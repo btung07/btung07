@@ -79,4 +79,43 @@ A network engineer designs, edits, and manages computer networks to ensure fast 
 - **Online Courses**: Self-paced learning to acquire additional skills.
 - **Self-Starter Projects**: Hands-on experience through personal projects.
 
+---
+
+## 8. Real Job Examples
+### Entry Level Position
+- **Salary**: $75,000 - $100,000 CAD/year
+- **City**: Toronto
+- **Job Description**:
+  - Assist with design and management of network systems
+  - Monitor network performance
+  - Document network configurations
+- **Additional Skills**: Basic networking systems knowledge, understanding of internet security
+
+### Mid Level Position
+- **Salary**: $100,000 - $135,000 CAD/year
+- **City**: Toronto
+- **Job Description**:
+  - Design and implement network layout
+  - Manage routing protocols
+  - Troubleshoot network issues
+- **Additional Skills**: Minimum of 8 years in network engineering, programming skills, strong communication
+
+### Senior Level Position
+- **Salary**: $135,000 - $175,000+ CAD/year
+- **City**: Toronto
+- **Job Description**:
+  - Security management
+  - Technical support
+  - Documentation and project collaboration
+- **Additional Skills**: Strong problem-solving skills, good time management, advanced certifications (CCNP, CCIE)
+
+---
+
+## 9. Works Cited
+- “Indeed.” Network Engineer, Aviva. [Indeed](https://ca.indeed.com/jobs?q=network+engineer&l=Gormley%2C+ON&from=searchOnDesktopSerp&vjk=686a9d22a2f5b66b). Accessed 12 October 2024.
+- “Network Engineer.” Wipro Limited. [Indeed](https://ca.indeed.com/jobs?q=network+engineer&l=Gormley%2C+ON&from=searchOnDesktopSerp&vjk=d4ca6095da11c5ac). Accessed 12 October 2024.
+- “Network Engineer.” Cisco. [Cisco](https://www.cisco.com/site/us/en/learn/training-certifications/tech-roles/network-engineer.html). Accessed 13 October 2024.
+- “Software Engineering Technology – Faculty of Engineering.” McMaster Engineering. [McMaster Engineering](https://www.eng.mcmaster.ca/sept/degree-options/software-engineering-technology/). Accessed 13 October 2024.
+- Spin Master Ltd. “Senior Network Engineer.” [Indeed](https://ca.indeed.com/jobs?q=network+engineer&l=Gormley%2C+ON&from=searchOnDesktopSerp&vjk=d155b97caef8cfb7). Accessed 12 October 2024.
+
 
