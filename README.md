@@ -1,6 +1,6 @@
 # Career Research: Network Engineer
 
-![Network Engineer](https://freelancermap.s3.eu-west-1.amazonaws.com/channel_incl1/career-insights--what-does-a-network-engineer-do--5489.jpg)
+![Network Engineer](https://cybertex.edu/wp-content/uploads/2023/02/entry-level-network-engineer.jpg)
 
 ## 1. Name and Description of the Career
 **Network Engineer**  
