@@ -1,5 +1,7 @@
 # Career Research: Network Engineer
 
+![Network Engineer](https://freelancermap.s3.eu-west-1.amazonaws.com/channel_incl1/career-insights--what-does-a-network-engineer-do--5489.jpg)
+
 ## 1. Name and Description of the Career
 **Network Engineer**  
 A network engineer designs, edits, and manages computer networks to ensure fast and secure communication and data transfer. Responsibilities include security management, monitoring, and documentation.
