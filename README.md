@@ -59,6 +59,8 @@ A network engineer designs, edits, and manages computer networks to ensure fast 
 ### McMaster University
 - **Location**: Hamilton, Ontario, Canada
 
+![McMaster University](https://mira.mcmaster.ca/wp-content/uploads/2024/06/Media-14.jpg)
+
 ### Entrance Requirements
 - Minimum overall average of 85%
 - Prerequisites: Grade 12 English, Grade 12 Mathematics, and related computer science courses
