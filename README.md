@@ -117,5 +117,6 @@ A network engineer designs, edits, and manages computer networks to ensure fast 
 - “Network Engineer.” Cisco. [Cisco](https://www.cisco.com/site/us/en/learn/training-certifications/tech-roles/network-engineer.html). Accessed 13 October 2024.
 - “Software Engineering Technology – Faculty of Engineering.” McMaster Engineering. [McMaster Engineering](https://www.eng.mcmaster.ca/sept/degree-options/software-engineering-technology/). Accessed 13 October 2024.
 - Spin Master Ltd. “Senior Network Engineer.” [Indeed](https://ca.indeed.com/jobs?q=network+engineer&l=Gormley%2C+ON&from=searchOnDesktopSerp&vjk=d155b97caef8cfb7). Accessed 12 October 2024.
+- “Working as a Network Engineer - Job Profiles.” Randstad, 9 August 2024,https://canadianbusinesscollege.com/information-technology/network-engineer/. Accessed 13 October 2024. 
 
 
