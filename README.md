@@ -27,6 +27,8 @@ A network engineer designs, edits, and manages computer networks to ensure fast 
 - Cisco Certified Network Professional (CCNP)
 - Certified Information Systems Security Professional (CISSP)
 
+![Cisco Award](https://ptcsys.com/wp-content/uploads/2019/12/Cisco-Award-scaled.jpeg)
+
 ---
 
 ## 4. Required Technical and Non-Technical Skills
